@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Rafael!;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Rafael!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia!" alt="Typing SVG" />
 </div>
 
 ---
@@ -44,15 +44,15 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelgs2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelgs2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 #### 🐍 GitHub Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafaelgs2/Rafaelgs2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafaelgs2/Rafaelgs2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafaelgs2/Rafaelgs2I/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
