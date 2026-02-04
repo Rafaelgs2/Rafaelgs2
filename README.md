@@ -44,9 +44,8 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Rafaelgs2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Rafaelgs2&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
-</div>
+  <img src="https://metrics.lecoq.io/Rafaelgs2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" width="100%" />
+</div>>
 
 #### 🐍 GitHub Snake
 <picture>
