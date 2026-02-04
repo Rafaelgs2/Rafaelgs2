@@ -44,9 +44,13 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafaelgs2&show_icons=true&theme=tokyonight" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelgs2&layout=compact&theme=tokyonight" width="320" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rafaelgs2&show_icons=true&theme=tokyonight" width="420" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelgs2&layout=compact&theme=tokyonight" width="320" />
+
 </div>
+
 
 #### 🐍 GitHub Snake
 <picture>
