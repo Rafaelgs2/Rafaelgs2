@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim 👨‍💻
 
 Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e escaláveis. Atualmente, curso **Bacharelado em Sistemas de Informação**, onde aprofundo conhecimentos técnicos na área de TI.
 
@@ -13,7 +13,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 - 🗣️ **Inglês Avançado** (Pronto para documentação técnica e colaboração internacional).
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 🛠️
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -31,7 +31,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projetos em Destaque 📂
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
@@ -41,14 +41,9 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelgs2&theme=tokyonight" />
-</p>
 
 
-#### 🐍 GitHub Snake
+#### 🐍 Minha Atividade no GitHub - Inspirado no SnakeGame 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafaelgs2/Rafaelgs2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafaelgs2/Rafaelgs2/output/github-contribution-grid-snake.svg">
