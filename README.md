@@ -45,7 +45,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 <div align="center">
   <img src="https://metrics.lecoq.io/Rafaelgs2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" width="100%" />
-</div>>
+</div>
 
 #### 🐍 GitHub Snake
 <picture>
